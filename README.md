@@ -12,7 +12,7 @@ Implementation of Notification is simple. We can show notification to give more 
 <br></p>
 
 <a href="https://www.youtube.com/watch?v=31K3PUjfoqo" target="_blank"><img src="/atachements/youtube_thumbnail.png" 
-alt="Watch the App Demo" width="300" height="300" border="10" /></a>
+alt="Watch the App Demo" width="500" height="300" border="10" /></a>
 
 # Progress Bar Notification 
 
