@@ -4,11 +4,12 @@
 A notification is a message that Android displays outside your app's UI to provide the user with reminders, communication from other people, or other timely information from your app. Users can tap the notification to open your app or take an action directly from the notification.
 
 
+Implementation of Notification is simple. We can show notification to give more information to user related to the application. We can show normal notification with some information, downloading details, progress of some process taking place in application and so on. 
+
 # You can see here how the notification Demo works
 
-![alt text](/atachements/youtube_thumbnail.png) (https://www.youtube.com/watch?v=31K3PUjfoqo)
-
-Implementation of Notification is simple. We can show notification to give more information to user related to the application. We can show normal notification with some information, downloading details, progress of some process taking place in application and so on. 
+<a href="https://www.youtube.com/watch?v=31K3PUjfoqo" target="_blank"><img src="/atachements/youtube_thumbnail.png" 
+alt="Watch the App Demo" width="240" height="180" border="10" /></a>
 
 # Progress Bar Notification 
 
