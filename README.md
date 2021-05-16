@@ -20,7 +20,6 @@ To implement progress bar notification we need to initiaize the notification, se
 To implement notification we need to initiaize the notification channel, then set the Activity it will open when click on the notification and how it will look.
 
 # Home Screen
-
 ![alt text](/attachments/notificatio_home_Screen.png)
 
 # Progress Bar Notification with on current percentage
