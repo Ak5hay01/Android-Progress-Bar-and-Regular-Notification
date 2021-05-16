@@ -26,7 +26,7 @@ To implement notification we need to initiaize the notification channel, then se
 # Home Screen
 ![alt text](/atachements/notificatio_home_Screen.png)
 
-# Progress Bar Notification with on current percentage
+# Progress Bar Notification with current percentage
 
 ![alt text](/atachements/progress_bar_notification_with_progress.png)
 
@@ -38,7 +38,7 @@ To implement notification we need to initiaize the notification channel, then se
 
 ![alt text](/atachements/regular_notification.png)
 
-# After Clicking Reguar notification
+# After Clicking Regular notification
 
 ![alt text](/atachements/notification_on_click.png)
 
