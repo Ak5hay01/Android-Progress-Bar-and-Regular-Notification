@@ -6,7 +6,7 @@ A notification is a message that Android displays outside your app's UI to provi
 
 # You can see here how the notification Demo works
 
-![alt text](/attachments/youtube_thumbnail.png) (https://www.youtube.com/watch?v=31K3PUjfoqo)
+![alt text](/atachments/youtube_thumbnail.png) (https://www.youtube.com/watch?v=31K3PUjfoqo)
 
 Implementation of Notification is simple. We can show notification to give more information to user related to the application. We can show normal notification with some information, downloading details, progress of some process taking place in application and so on. 
 
@@ -20,23 +20,23 @@ To implement progress bar notification we need to initiaize the notification, se
 To implement notification we need to initiaize the notification channel, then set the Activity it will open when click on the notification and how it will look.
 
 # Home Screen
-![alt text](/attachments/notificatio_home_Screen.png)
+![alt text](/atachments/notificatio_home_Screen.png)
 
 # Progress Bar Notification with on current percentage
 
-![alt text](/attachments/progress_bar_notification_with_progress.png)
+![alt text](/atachments/progress_bar_notification_with_progress.png)
 
 # Progress bar Notification when done
 
-![alt text](/attachments/progress_bar_notification_after_complete.png)
+![alt text](/atachments/progress_bar_notification_after_complete.png)
 
 # Regular Notification
 
-![alt text](/attachments/regular_notification.png)
+![alt text](/atachments/regular_notification.png)
 
 # After Clicking Reguar notification
 
-![alt text](/attachments/notification_on_click.png)
+![alt text](/atachments/notification_on_click.png)
 
 
 
